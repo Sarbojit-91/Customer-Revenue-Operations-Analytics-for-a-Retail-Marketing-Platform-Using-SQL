@@ -1,3 +1,20 @@
+/*
+Customer, Revenue & Operations Analytics
+Retail Marketing Platform – SQL Case Study
+
+Database: marketing_db
+Execution Environment: MySQL / PostgreSQL (local)
+
+This file contains:
+Step 0 – Data Validation
+Step 1 – Revenue KPIs
+Step 2 – Sales Funnel
+Step 3 – Customer Retention
+Step 4 – Product & Store Performance
+Step 5 – Returns & Profitability
+Step 6 – Inventory Analytics
+*/
+
 #create database marketing_db;
 
 use marketing_db;
